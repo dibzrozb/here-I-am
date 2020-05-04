@@ -1,6 +1,4 @@
 ## Dibueng Bosman GAP 2020
-![Image](
-
 
 I aspire to be part of an organisation with a vibrant and inclusive culture that allows me to learn and develop myself into a valuable member of a branding team. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
 
