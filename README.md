@@ -1,30 +1,10 @@
-## Welcome to GitHub Pages
+## Dibueng Bosman GAP 2020
 
-You can use the [editor on GitHub](https://github.com/dibzrozb/about-Dibz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I aspire to be part of an organisation with a vibrant and inclusive culture that allows me to learn and develop myself into a valuable member of a branding team. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+I marketing post graduate who has taken a huge leap into joining Dimension Data. Whilst having no technical background, I am absorbing a whole lof of new knowledge in this graduate program
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
