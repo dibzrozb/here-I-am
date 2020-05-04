@@ -1,7 +1,7 @@
-<h1>Welcome to Fun Facts About Dibz </h1> <br>
+<h1>Dibueng Bosman GAP 2020 </h1> <br>
 <br>
-Left footed- but right handed<br>
+About Me<br>
 <br>
-Beatboxing<br>
+Absolutely no technical background, but could probably sell ice to an eskimo. I all about getting out of my comfortzone to grow and learn about aspects that I have not yet been exposed to<br>
 <br>
 Never been to the dentist
