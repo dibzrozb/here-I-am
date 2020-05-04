@@ -6,7 +6,7 @@ I aspire to be part of an organisation with a vibrant and inclusive culture that
 
 ### About Me
 
-I marketing post graduate who has taken a huge leap into joining Dimension Data. Whilst having no technical background, I am absorbing a whole lof of new knowledge in this graduate program
+A marketing post graduate who has taken a huge leap into joining Dimension Data. Whilst having no technical background, I am absorbing a whole lof of new knowledge in this graduate program
 
 ### Previous & Current Projects
 
