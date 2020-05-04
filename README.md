@@ -9,13 +9,20 @@ A marketing post graduate who has taken a huge leap into joining Dimension Data.
 ### Previous & Current Projects
 
 -Digital advisory for Tsogo Sun
+
 -Digital CX recommendations for Life Healthcare
+
 -Account plan for a digital/virtual bank
+
 -Learning about GitHub.
 
+
 ### Education
+
 -2019 University of Pretoria: BCom Hons Marketing Management
+
 -2016 to 2018 University of Pretoria: BCom Marketing Management
+
 -2011 to 2015 Brescia House School: IEB National Senior Certificate
 
 
