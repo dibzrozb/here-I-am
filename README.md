@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>>>>>>>![](CV picture.png)
+![](CV picture.png)
 
 
 
